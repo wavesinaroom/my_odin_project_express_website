@@ -1,0 +1,22 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "My first website application with express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/wavesinaroom/my_odin_project_express_website"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Waves in a room",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
